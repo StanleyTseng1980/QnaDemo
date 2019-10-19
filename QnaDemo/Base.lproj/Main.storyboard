@@ -147,7 +147,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" alpha="0.90000000000000002" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mfl-KY-r2V">
-                                <rect key="frame" x="41" y="710" width="120" height="120"/>
+                                <rect key="frame" x="41" y="710" width="120.00000000000011" height="120"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="120" id="71h-CC-hsN"/>
                                     <constraint firstAttribute="height" constant="120" id="Tu3-xM-njt"/>
